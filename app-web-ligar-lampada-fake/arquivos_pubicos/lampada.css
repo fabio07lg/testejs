@@ -1,0 +1,17 @@
+p:hover {
+  color: red    
+} 
+
+button {
+    font-size: 200%;
+}
+
+.apagada {
+   stroke: black; 
+   fill: white;
+}
+
+.acendida {
+   stroke: black; 
+   fill: yellow;
+}

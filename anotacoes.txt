@@ -1,0 +1,27 @@
+passos para um novo projeto:
+  1. criar repositorio no github
+  2. clonar o repositorio usando o TortoiseGit (sincronizar local com o github)
+  3. escrever o código da aplicação
+  3.1 se a aplicacao usar npm executar npm init e npm install PACOTE
+  4. executar a aplicação com node APP.js
+
+
+linguagens a estudar:
+  - Javascript
+  - HTML
+    - SVG - Fazer gráficos vetoriais
+  - CSS
+    - csszengarden
+    - codepen.io
+
+ferramentas:
+- NodeJS (javascript lado servidor ou standalone)
+-- Electron - ferramenta pra rodar uma aplicacao como desktop sem node
+-- Cordova - ferramenta pra rodar uma aplicacao no android ou iphone sem node
+- github site(repositorio) pra guardar os códigos fontes de maneira histórica (bitbucket)
+- git - ferramenta gerenciamento de código fonte
+  - TortoiseGit
+  - https://git-for-windows.github.io/
+- Visual Studio Code - IDE simples
+- npm - https://www.npmjs.com - pacotes(componentes) prontos em Javascript
+
